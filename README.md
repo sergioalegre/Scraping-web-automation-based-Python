@@ -10,7 +10,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <img src="http://sergioalegre.es/logo.JPG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><!-- TITULO -->Scraping: web automation basedPython</h3>
+  <h3 align="center"><!-- TITULO -->Scraping: web automation based Python</h3>
 
   <p align="center">
     <!-- DESCRIPCION -->Practicas del curso de Udemy 2020 de scrapping con Python
