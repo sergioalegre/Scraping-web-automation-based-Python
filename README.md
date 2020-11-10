@@ -32,7 +32,7 @@ Practicas del curso de Udemy 2020 de scrapping con Python.  <a href="https://git
 <br><br>
 <p align="center">
   <a href="https://github.com/sergioalegre/Scraping-web-automation-based-Python/">
-    <img src="http://www.sergioalegre.es/Programacion/_ScrappingPython/Python_Scrapping.gif" alt="Logo" width="500" height="">
+    <img src="http://www.sergioalegre.es/Programacion/_ScrappingPython/Python_Scrapping.gif" alt="Logo" width="100%" height="">
   </a>
 </p>
 
