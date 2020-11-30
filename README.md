@@ -18,7 +18,7 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
     <a href="https://github.com/sergioalegre/Scraping-web-automation-based-Python"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- DEMO --><a href="http://sergioalegre.es/Programacion/_BuscadorAJAX/">View Demo</a>
+    <!-- DEMO --><a href="https://github.com/sergioalegre/Scraping-web-automation-based-Python/blob/main/0.%20EJEMPLO%20COMPLETO%20SERGIO.ipynb">View Demo</a>
     ·
     <a href="https://github.com/sergioalegre/Scraping-web-automation-based-Python/issues">Report Bug</a>
     ·
@@ -28,11 +28,11 @@ REEMPLAZAR: Buscador-Ajax-similar-a-Google, TITULO, DESCRIPCION, DESCRIPCION2, D
 
 ## About The Project & Demo link
 <!-- DESCRIPCION2 --> <!-- DEMO -->
-Practicas del curso de Udemy 2020 de scrapping con Python.  <a href="http://sergioalegre.es/Programacion/_BuscadorAJAX/">Visita la demo aqui</a>
+Practicas del curso de Udemy 2020 de scrapping con Python.  <a href="https://github.com/sergioalegre/Scraping-web-automation-based-Python/blob/main/0.%20EJEMPLO%20COMPLETO%20SERGIO.ipynb">Visita la demo aqui</a>
 <br><br>
 <p align="center">
   <a href="https://github.com/sergioalegre/Scraping-web-automation-based-Python/">
-    <img src="http://www.sergioalegre.es/Programacion/_ScrappingPython/Python_Scrapping.gif" alt="Logo" width="500" height="">
+    <img src="http://www.sergioalegre.es/Programacion/_ScrappingPython/Python_Scrapping.gif" alt="Logo" width="100%" height="">
   </a>
 </p>
 
